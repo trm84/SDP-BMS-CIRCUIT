@@ -8545,6 +8545,81 @@ Source: &lt;a href="http://www.recom-international.com/pdf/Innoline/R-78xx-1.0.p
 <text x="-1.27" y="1.397" size="0.6096" layer="25" font="vector" ratio="20">&gt;NAME</text>
 <text x="-1.27" y="-2.032" size="0.6096" layer="27" font="vector" ratio="20">&gt;VALUE</text>
 </package>
+<package name="CAP_EEE_G" urn="urn:adsk.eagle:footprint:9209241/1" library_version="23" library_locally_modified="yes">
+<smd name="1" x="-4.5974" y="0" dx="4.2164" dy="2.1082" layer="1"/>
+<smd name="2" x="4.5974" y="0" dx="4.2164" dy="2.1082" layer="1"/>
+<wire x1="-6.9596" y1="-1.3208" x2="-6.9596" y2="1.3208" width="0.1524" layer="51"/>
+<wire x1="-6.9596" y1="1.3208" x2="-5.4864" y2="1.3208" width="0.1524" layer="51"/>
+<wire x1="5.4864" y1="1.3208" x2="6.9596" y2="1.3208" width="0.1524" layer="51"/>
+<wire x1="6.9596" y1="1.3208" x2="6.9596" y2="-1.3208" width="0.1524" layer="51"/>
+<wire x1="6.9596" y1="-1.3208" x2="5.4864" y2="-1.3208" width="0.1524" layer="51"/>
+<wire x1="-5.4864" y1="-1.3208" x2="-6.9596" y2="-1.3208" width="0.1524" layer="51"/>
+<wire x1="-5.4864" y1="-5.4864" x2="-5.4864" y2="-1.3208" width="0.1524" layer="51"/>
+<wire x1="-5.4864" y1="1.3208" x2="-5.4864" y2="5.4864" width="0.1524" layer="51"/>
+<wire x1="-5.4864" y1="5.4864" x2="5.4864" y2="5.4864" width="0.1524" layer="51"/>
+<wire x1="5.4864" y1="5.4864" x2="5.4864" y2="1.3208" width="0.1524" layer="51"/>
+<wire x1="5.4864" y1="-1.3208" x2="5.4864" y2="-5.4864" width="0.1524" layer="51"/>
+<wire x1="5.4864" y1="-5.4864" x2="-5.4864" y2="-5.4864" width="0.1524" layer="51"/>
+<wire x1="-5.3848" y1="-5.3848" x2="5.3848" y2="-5.3848" width="0.1524" layer="21"/>
+<wire x1="5.3848" y1="-5.3848" x2="5.3848" y2="-1.397" width="0.1524" layer="21"/>
+<wire x1="5.3848" y1="5.3848" x2="-5.3848" y2="5.3848" width="0.1524" layer="21"/>
+<wire x1="-5.3848" y1="5.3848" x2="-5.3848" y2="1.397" width="0.1524" layer="21"/>
+<wire x1="-5.3848" y1="-1.397" x2="-5.3848" y2="-5.3848" width="0.1524" layer="21"/>
+<wire x1="5.3848" y1="1.397" x2="5.3848" y2="5.3848" width="0.1524" layer="21"/>
+<wire x1="-5.2324" y1="2.6162" x2="-2.6162" y2="5.2324" width="0.1524" layer="51"/>
+<wire x1="-5.2324" y1="-2.6162" x2="-2.6162" y2="-5.2324" width="0.1524" layer="51"/>
+<wire x1="-5.2324" y1="-5.2324" x2="5.2324" y2="-5.2324" width="0.1524" layer="51"/>
+<wire x1="5.2324" y1="-5.2324" x2="5.2324" y2="5.2324" width="0.1524" layer="51"/>
+<wire x1="5.2324" y1="5.2324" x2="-5.2324" y2="5.2324" width="0.1524" layer="51"/>
+<wire x1="-5.2324" y1="5.2324" x2="-5.2324" y2="-5.2324" width="0.1524" layer="51"/>
+<wire x1="-0.254" y1="0" x2="0.254" y2="0" width="0.1524" layer="23"/>
+<wire x1="0" y1="-0.254" x2="0" y2="0.254" width="0.1524" layer="23"/>
+<polygon width="0.1524" layer="51">
+<vertex x="-6.9596" y="-1.3081"/>
+<vertex x="-6.9596" y="1.3081"/>
+<vertex x="-5.4991" y="1.3081"/>
+<vertex x="-5.4991" y="5.4991"/>
+<vertex x="5.4991" y="5.4991"/>
+<vertex x="5.4991" y="1.3081"/>
+<vertex x="6.9596" y="1.3081"/>
+<vertex x="6.9596" y="-1.3081"/>
+<vertex x="5.4991" y="-1.3081"/>
+<vertex x="5.4991" y="-5.4991"/>
+<vertex x="-5.4991" y="-5.4991"/>
+<vertex x="-5.4991" y="-1.3081"/>
+</polygon>
+<polygon width="0.1524" layer="41">
+<vertex x="-2.4384" y="1.1049"/>
+<vertex x="2.4384" y="1.1049"/>
+<vertex x="2.4384" y="-1.1049"/>
+<vertex x="-2.4384" y="-1.1049"/>
+</polygon>
+<polygon width="0.1524" layer="41">
+<vertex x="-2.4384" y="1.1049"/>
+<vertex x="2.4384" y="1.1049"/>
+<vertex x="2.4384" y="-1.1049"/>
+<vertex x="-2.4384" y="-1.1049"/>
+</polygon>
+<polygon width="0.1524" layer="41">
+<vertex x="-2.4384" y="1.1049"/>
+<vertex x="2.4384" y="1.1049"/>
+<vertex x="2.4384" y="-1.1049"/>
+<vertex x="-2.4384" y="-1.1049"/>
+</polygon>
+<polygon width="0.1524" layer="41">
+<vertex x="-5.1943" y="5.1943"/>
+<vertex x="5.1943" y="5.1943"/>
+<vertex x="5.1943" y="1.1049"/>
+<vertex x="-5.1943" y="1.1049"/>
+</polygon>
+<polygon width="0.1524" layer="41">
+<vertex x="-5.1943" y="-1.1049"/>
+<vertex x="5.1943" y="-1.1049"/>
+<vertex x="5.1943" y="-5.1943"/>
+<vertex x="-5.1943" y="-5.1943"/>
+</polygon>
+<text x="-3.2766" y="-0.635" size="1.27" layer="25" ratio="6" rot="SR0">&gt;Name</text>
+</package>
 </packages>
 <packages3d>
 <package3d name="S16B-XH-A(LF)(SN)" urn="urn:adsk.eagle:package:7995383/3" type="model" library_version="20" library_locally_modified="yes">
@@ -8641,6 +8716,11 @@ Source: &lt;a href="http://www.recom-international.com/pdf/Innoline/R-78xx-1.0.p
 &lt;/ul&gt;&lt;/p&gt;</description>
 <packageinstances>
 <packageinstance name="1X05"/>
+</packageinstances>
+</package3d>
+<package3d name="CAP_EEE_G" urn="urn:adsk.eagle:package:9209242/2" type="model" library_version="23" library_locally_modified="yes">
+<packageinstances>
+<packageinstance name="CAP_EEE_G"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -8746,7 +8826,7 @@ Source: &lt;a href="http://www.recom-international.com/pdf/Innoline/R-78xx-1.0.p
 <text x="35.9156" y="9.1186" size="2.0828" layer="95" ratio="6" rot="SR0">&gt;Name</text>
 <text x="35.2806" y="6.5786" size="2.0828" layer="96" ratio="6" rot="SR0">&gt;Value</text>
 </symbol>
-<symbol name="PCAPH" urn="urn:adsk.eagle:symbol:7995461/14" library_version="21" library_locally_modified="yes">
+<symbol name="PCAPH" urn="urn:adsk.eagle:symbol:7995461/15" library_version="23" library_locally_modified="yes">
 <pin name="22" x="7.62" y="0" visible="off" length="short" direction="pas" rot="R180"/>
 <pin name="11" x="0" y="0" visible="off" length="short" direction="pas"/>
 <wire x1="2.2098" y1="0.635" x2="2.2098" y2="1.905" width="0.2032" layer="94"/>
@@ -9148,7 +9228,7 @@ Source: &lt;a href="http://www.recom-international.com/pdf/Innoline/R-78xx-1.0.p
 </device>
 </devices>
 </deviceset>
-<deviceset name="UUX1J101MNL1GS" urn="urn:adsk.eagle:component:7995463/14" prefix="C" library_version="21" library_locally_modified="yes">
+<deviceset name="UUX1J101MNL1GS" urn="urn:adsk.eagle:component:7995463/15" prefix="C" library_version="23" library_locally_modified="yes">
 <gates>
 <gate name="A" symbol="PCAPH" x="0" y="0"/>
 </gates>
@@ -9578,6 +9658,28 @@ Source: &lt;a href="http://www.recom-international.com/pdf/Innoline/R-78xx-1.0.p
 </device>
 </devices>
 </deviceset>
+<deviceset name="EEE-2AA330P" urn="urn:adsk.eagle:component:9209243/1" locally_modified="yes" prefix="C" library_version="23" library_locally_modified="yes">
+<gates>
+<gate name="A" symbol="PCAPH" x="0" y="0" swaplevel="1"/>
+</gates>
+<devices>
+<device name="" package="CAP_EEE_G">
+<connects>
+<connect gate="A" pin="11" pad="1"/>
+<connect gate="A" pin="22" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:9209242/2"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="EEE2AA330P" constant="no"/>
+<attribute name="VENDOR" value="Panasonic" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </libraries>
@@ -9736,7 +9838,6 @@ Source: &lt;a href="http://www.recom-international.com/pdf/Innoline/R-78xx-1.0.p
 <part name="D15" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="LED0603" device="" package3d_urn="urn:adsk.eagle:package:8018617/2" value="GREEN"/>
 <part name="D16" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="LED0603" device="" package3d_urn="urn:adsk.eagle:package:8018617/2" value="RED"/>
 <part name="D13" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="LED0603" device="" package3d_urn="urn:adsk.eagle:package:8018617/2" value="RED"/>
-<part name="C15" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="33uF"/>
 <part name="Y1" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="FOXSDLF/080-20" device="" package3d_urn="urn:adsk.eagle:package:8018637/2" value="8MHz"/>
 <part name="Q15" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="BMS3004" device="" package3d_urn="urn:adsk.eagle:package:8034825/2"/>
 <part name="Q17" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="BMS3004" device="" package3d_urn="urn:adsk.eagle:package:8034825/2"/>
@@ -9799,6 +9900,7 @@ Source: &lt;a href="http://www.recom-international.com/pdf/Innoline/R-78xx-1.0.p
 <part name="TP14" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="TP5015" device="" package3d_urn="urn:adsk.eagle:package:8035395/2"/>
 <part name="TP15" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="TP5015" device="" package3d_urn="urn:adsk.eagle:package:8035395/2"/>
 <part name="TP16" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="TP5015" device="" package3d_urn="urn:adsk.eagle:package:8035395/2"/>
+<part name="C26" library="SDP" library_urn="urn:adsk.eagle:library:7995329" deviceset="EEE-2AA330P" device="" package3d_urn="urn:adsk.eagle:package:9209242/2"/>
 </parts>
 <sheets>
 <sheet>
@@ -10028,10 +10130,6 @@ clock. 8Mhz Configed with
 <attribute name="VALUE" x="197.6628" y="127.3302" size="1.778" layer="96" ratio="10" rot="SR270"/>
 <attribute name="NAME" x="199.5424" y="127.2794" size="1.778" layer="95" ratio="10" rot="SR270"/>
 </instance>
-<instance part="C15" gate="G$1" x="294.64" y="99.06" rot="R180">
-<attribute name="NAME" x="293.116" y="98.679" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="293.116" y="103.759" size="1.778" layer="96" rot="R180"/>
-</instance>
 <instance part="Y1" gate="A" x="205.74" y="149.86" rot="R90">
 <attribute name="NAME" x="203.0476" y="152.1206" size="1.778" layer="95" ratio="10" rot="SR90"/>
 <attribute name="VALUE" x="210.1596" y="151.8158" size="1.778" layer="96" ratio="10" rot="SR90"/>
@@ -10174,6 +10272,10 @@ clock. 8Mhz Configed with
 <instance part="TP11" gate="G$1" x="190.5" y="208.28">
 <attribute name="NAME" x="187.706" y="210.312" size="1.27" layer="95"/>
 </instance>
+<instance part="C26" gate="A" x="294.64" y="101.6" rot="R270">
+<attribute name="VALUE" x="290.3728" y="104.9782" size="1.778" layer="96" ratio="10" rot="SR270"/>
+<attribute name="NAME" x="296.7228" y="100.6094" size="1.778" layer="95" ratio="10" rot="SR270"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -10192,15 +10294,12 @@ clock. 8Mhz Configed with
 <segment>
 <wire x1="309.88" y1="99.06" x2="309.88" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="GND10" gate="1" pin="GND"/>
-<wire x1="294.64" y1="83.82" x2="309.88" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="284.48" y1="83.82" x2="294.64" y2="83.82" width="0.1524" layer="91"/>
 <junction x="309.88" y="83.82"/>
 <pinref part="U3" gate="G$1" pin="GND"/>
-<pinref part="C15" gate="G$1" pin="1"/>
-<wire x1="294.64" y1="96.52" x2="294.64" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="D17" gate="A" pin="1"/>
+<wire x1="294.64" y1="83.82" x2="309.88" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="284.48" y1="93.98" x2="284.48" y2="83.82" width="0.1524" layer="91"/>
-<wire x1="284.48" y1="83.82" x2="294.64" y2="83.82" width="0.1524" layer="91"/>
-<junction x="294.64" y="83.82"/>
 <pinref part="C3" gate="A" pin="22"/>
 <wire x1="325.12" y1="96.52" x2="325.12" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="309.88" y1="83.82" x2="325.12" y2="83.82" width="0.1524" layer="91"/>
@@ -10208,6 +10307,9 @@ clock. 8Mhz Configed with
 <wire x1="325.12" y1="83.82" x2="342.9" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="342.9" y1="83.82" x2="342.9" y2="86.36" width="0.1524" layer="91"/>
 <junction x="325.12" y="83.82"/>
+<pinref part="C26" gate="A" pin="22"/>
+<wire x1="294.64" y1="93.98" x2="294.64" y2="83.82" width="0.1524" layer="91"/>
+<junction x="294.64" y="83.82"/>
 </segment>
 <segment>
 <wire x1="314.96" y1="149.86" x2="314.96" y2="137.16" width="0.1524" layer="91"/>
@@ -10786,17 +10888,17 @@ clock. 8Mhz Configed with
 </net>
 <net name="N$37" class="0">
 <segment>
-<wire x1="294.64" y1="109.22" x2="297.18" y2="109.22" width="0.1524" layer="91"/>
 <pinref part="U3" gate="G$1" pin="VIN"/>
-<pinref part="C15" gate="G$1" pin="2"/>
-<wire x1="294.64" y1="104.14" x2="294.64" y2="109.22" width="0.1524" layer="91"/>
 <pinref part="F1" gate="A" pin="2"/>
 <wire x1="281.94" y1="109.22" x2="284.48" y2="109.22" width="0.1524" layer="91"/>
-<junction x="294.64" y="109.22"/>
 <pinref part="D17" gate="A" pin="3"/>
 <wire x1="284.48" y1="109.22" x2="294.64" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="294.64" y1="109.22" x2="297.18" y2="109.22" width="0.1524" layer="91"/>
 <wire x1="284.48" y1="106.68" x2="284.48" y2="109.22" width="0.1524" layer="91"/>
 <junction x="284.48" y="109.22"/>
+<pinref part="C26" gate="A" pin="11"/>
+<wire x1="294.64" y1="101.6" x2="294.64" y2="109.22" width="0.1524" layer="91"/>
+<junction x="294.64" y="109.22"/>
 </segment>
 </net>
 <net name="N$44" class="0">
